@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RoadAPI", "RoadAPI\RoadAPI.csproj", "{3C31FF90-C13E-4386-9E53-8355D1023B9D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VehicleParser", "VehicleParser\VehicleParser.csproj", "{531F2E99-46FD-49DA-81FB-5459B3EE5607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C31FF90-C13E-4386-9E53-8355D1023B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C31FF90-C13E-4386-9E53-8355D1023B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C31FF90-C13E-4386-9E53-8355D1023B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C31FF90-C13E-4386-9E53-8355D1023B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{531F2E99-46FD-49DA-81FB-5459B3EE5607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{531F2E99-46FD-49DA-81FB-5459B3EE5607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{531F2E99-46FD-49DA-81FB-5459B3EE5607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{531F2E99-46FD-49DA-81FB-5459B3EE5607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
